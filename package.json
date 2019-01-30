@@ -1,0 +1,12 @@
+{
+  "name": "learning-ava",
+  "version": "1.0.0",
+  "author": "soarflat",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava --watch --verbose"
+  },
+  "devDependencies": {
+    "ava": "^1.2.0"
+  }
+}
